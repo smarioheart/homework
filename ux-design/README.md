@@ -2,7 +2,7 @@ UX Design
 =================
 
 ## PROBLEM
-At the Chronicle, we recently took a step back to reevaluate the effectiveness of our job board & networking site, ChronicleVitae (www.chroniclevitae.com).The job search functionality on ChronicleVitae was buried and difficult to find for a first time visitor. According to our analytics, most of our traffic comes through Google by searching “Chronicle jobs.” We wanted to cater our site to jobseekers.
+At the Chronicle, we recently took a step back to reevaluate the effectiveness of our job board & networking site, ChronicleVitae (www.chroniclevitae.com). The job search functionality on ChronicleVitae was buried and difficult to find for a first time visitor. According to our analytics, most of our traffic comes through Google by searching “Chronicle jobs.” We wanted to cater our site to jobseekers.
 
 ## PROCESS
 I looked through our previous research (recent users tests on Chroniclevitae.com and customer interviews) to distill some key themes regarding the current use of our site and how it functioned in comparison to our competitors. I also analyzed the most common paths to ChronicleVitae.com using Google Analytics.
